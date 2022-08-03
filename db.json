@@ -9,22 +9,5 @@
       "published": "2022-08-03T08:22:20.202Z",
       "restrict_operation": true
     }
-  },
-  "false": {
-    "notice": {
-      "notice_id": 0,
-      "url": "http://example.com/foo/bar.html",
-      "level": "information",
-      "type": "administrative",
-      "message": "string",
-      "published": "2022-08-03T08:22:20.202Z",
-      "restrict_operation": false
-    }
-  },
-  "error": {
-    "type": "about:blank",
-    "title": "not_found",
-    "detail": "string",
-    "status": 404
   }
 }
