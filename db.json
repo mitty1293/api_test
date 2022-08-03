@@ -1,4 +1,4 @@
-[
+{
   "true": {
     "notice": {
       "notice_id": 0,
@@ -27,4 +27,4 @@
     "detail": "string",
     "status": 404
   }
-]
+}
