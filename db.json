@@ -1,7 +1,7 @@
 {
    "true":{
       "notice":{
-         "notice_id":0,
+         "notice_id":1111,
          "url":"http://example.com/foo/bar.html",
          "level":"information",
          "type":"administrative",
@@ -12,7 +12,7 @@
    },
    "false":{
       "notice":{
-         "notice_id":0,
+         "notice_id":2222,
          "url":"http://example.com/foo/bar.html",
          "level":"information",
          "type":"administrative",
